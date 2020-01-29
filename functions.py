@@ -17,7 +17,7 @@ def square(number):
 print(square(21))
 """
 
-# Function
+# Function with emoji project
 def emoji_converter(message):
     split_msg = message.split(' ')
     emojis = {
